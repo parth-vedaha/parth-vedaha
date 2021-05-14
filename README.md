@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**parth-vedaha/parth-vedaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello everyone,
 
 - 🔭 I’m currently working on react.js and node.js and thier framework(Koa and Next.js).
 - 🌱 I’m currently learning Competitive Programming.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn - Parth D Gondaliya
 - 😄 Pronouns: Parth
 - ⚡ Fun fact: computer is smater than human being..
--->
+
