@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about about Shopify application.
 - 📫 How to reach me: LinkedIn - Parth D Gondaliya
 - 😄 Pronouns: Parth
-- ⚡ Fun fact: computer is smater than human being.
+- ⚡ Fun fact: computer is smater than human being..
 -->
